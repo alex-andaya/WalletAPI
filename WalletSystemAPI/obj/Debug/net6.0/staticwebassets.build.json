@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iXt/tVZxFE9WyzBz9v3bcb1rNssFIGKFHHYQOcDESbA=",
+  "Source": "WalletSystemAPI",
+  "BasePath": "_content/WalletSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
